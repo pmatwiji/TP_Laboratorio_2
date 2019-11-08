@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EntidadesAbstractas.Persona">
+    <Position X="6" Y="6" Width="2.5" />
+    <NestedTypes>
+      <Enum Name="EntidadesAbstractas.Persona.ENacionalidad" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Persona.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAQAAACEAAAAgCAAAAEgAAAAIAAgQAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EntidadesAbstractas.Universitario">
+    <Position X="10.5" Y="6" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAgAAAAAQAAAAAAAAAAAAAAiA=</HashCode>
+      <FileName>Universitario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

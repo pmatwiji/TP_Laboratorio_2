@@ -21,7 +21,7 @@ namespace Entidades_2018
 
         #region "Constructores"
         /// <summary>
-        /// 
+        /// Constructor Changuito
         /// </summary>
         private Changuito()
         {
@@ -29,7 +29,7 @@ namespace Entidades_2018
         }
 
         /// <summary>
-        /// 
+        /// Constructor de changuito asignando espacio disponible
         /// </summary>
         /// <param name="espacioDisponible"></param>
         public Changuito(int espacioDisponible) :this()
